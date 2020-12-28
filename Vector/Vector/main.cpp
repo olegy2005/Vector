@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
+#include "Vector.h"
 int main()
 {
 	cout << "Hello, git!\n";
+	Vector vec(10);
 }
