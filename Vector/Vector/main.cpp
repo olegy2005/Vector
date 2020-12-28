@@ -4,5 +4,5 @@ using namespace std;
 int main()
 {
 	cout << "Hello, git!\n";
-	Vector vec(10);
+	Vector<int> vec(10);
 }
