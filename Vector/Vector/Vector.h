@@ -19,7 +19,9 @@ public:
 		if (index < 0 || index >= size) {
 			throw std::out_of_range("index out of range");
 		}
-		return elems[index];
+		return elements[index];
 	}
+
+	int getSize() const { return size; }
 };
 

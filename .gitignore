@@ -1,3 +1,5 @@
 Vector/.vs
 Vector/Vector.sln
 Vector/Vector/Vector.vcxproj*
+Vector/Debug
+Vector/Vector/Debug
